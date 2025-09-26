@@ -110,6 +110,7 @@ export default function Home() {
           />
           Go to nextjs.org →
         </a>
+                <h1>Ceci est mon code Next dans Git pour la sandbox Modal<h1/>
       </footer>
     </div>
   );
